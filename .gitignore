@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Model files (optional if large)
+*.pt
+*.pth
+
+# System files
+.DS_Store
